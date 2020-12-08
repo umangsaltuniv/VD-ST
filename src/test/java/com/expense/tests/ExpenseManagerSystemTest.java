@@ -31,7 +31,7 @@ public class ExpenseManagerSystemTest {
 	
 	
 	@Test
-	public void titleTest1() throws Exception{
+	public void titleTest() throws Exception{
 		
 		driver.get("http://localhost:8089/ExpenseApp-1/login.jsp");	
 		
