@@ -33,7 +33,7 @@ public class ExpenseManagerSystemTest {
 	@Test
 	public void titleTest() throws Exception{
 		
-		driver.get("http://localhost:8089/ExpenseApp-1/login.jsp");	
+		//driver.get("http://localhost:8089/ExpenseApp-1/login.jsp");	
 		driver.get("https://www.google.com/");
 		
 		//Buggy Code
