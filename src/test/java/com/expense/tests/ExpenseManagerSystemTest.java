@@ -37,10 +37,10 @@ public class ExpenseManagerSystemTest {
 		//driver.get("https://www.google.com/");
 		
 		//Buggy Code
-		//String expectedTitle = "Hello Page";
+		String expectedTitle = "Hello Page";
 		
 		//Correct Code
-		String expectedTitle = "Login page";
+		//String expectedTitle = "Login page";
 		
 		//String expectedTitle = "Google";
 		
